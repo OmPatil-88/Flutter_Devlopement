@@ -1,0 +1,5 @@
+1)To get Result 
+Run on either updated SDK or specific sdk on which the project was build
+
+2)First try this command to get all dependancies
+=>"flutter pub cache repair" 
